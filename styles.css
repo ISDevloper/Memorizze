@@ -34,3 +34,7 @@
 .show {
   visibility: visible;
 }
+
+.container-test{
+  border-radius: 100%;
+}
